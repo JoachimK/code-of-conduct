@@ -1158,6 +1158,20 @@
           "twitter": "sql_aus_hh"
         }
       ]
+    },
+    {
+      "name": "CocoaHeads Hamburg",
+      "city": "Hamburg",
+      "country": "Germany",
+      "link": "https://www.meetup.com/de-DE/CocoaHeads-Hamburg/",
+      "twitter": "cocoaheads_hh",
+      "contacts": [
+        {
+          "name": "Joachim Kurz",
+          "phone":   "+49 151 419 180 66",
+          "twitter": "cocoafrog"
+        }
+      ]
     }
   ]
 }
